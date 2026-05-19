@@ -1,4 +1,10 @@
-# Salut ! 👋
+<div align="center">
+
+# 👋 Bonjour, je suis Faniry Rakotondrazaka !
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&width=500&lines=DevSecOps+%26+Cybersecurity+Learner;Linux+%7C+Docker+%7C+Kubernetes;Network+Security+Enthusiast)](https://git.io/typing-svg)
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&width=500&lines=DevSecOps+%26+Cybersecurity+Learner;Linux+%7C+Docker+%7C+Kubernetes;Network+Security+Enthusiast)](https://git.io/typing-svg)
 > 🎯 Passionné par l'automatisation, les réseaux et la cybersécurité
